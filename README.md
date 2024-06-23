@@ -4,7 +4,7 @@ This is my final project for the class [Phys-41 - Scientific Computing with Pyth
 
 It is a game in which the player attempts to guess a randomly generated sequence of colors within a set number of attempts.
 
-Use [Final Project - Manasvini Komandur.ipynb](<Final Project - Manasvini Komandur.ipynb>) to import this project in a Jupyter Notebook. 
+Use [Final Project.ipynb](<Final Project.ipynb>) to import this project in a Jupyter Notebook. 
 This file also provides detailed explanation about the process of writing the code for this game. 
 
 Use [ColorGuessingGame.py](<ColorGuessingGame.py>) to execute the game from other Python IDEs (Integrated Development Environments), such as Thonny. 
